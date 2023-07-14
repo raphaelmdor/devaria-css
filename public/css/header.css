@@ -1,1 +1,6 @@
 /* estilos do cabeçalho */
+
+header .link-logo {
+    display: block;
+    padding: 20px 25px;
+}

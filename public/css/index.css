@@ -1,11 +1,5 @@
-.color-green {
-    color: green;
-}
+/* Estilos da pagina index */
 
-.color-red ul li a {
-    color: red;
-}
-
-#link {
-    color: black;
+.cover-container figure img {
+    width: 100%; 
 }

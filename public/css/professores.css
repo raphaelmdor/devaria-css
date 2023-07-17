@@ -1,11 +1,5 @@
 /* Estilos da pagina professores */
 
-.content-container > div img {
-    width: 98%;
-    border-radius: 90px;
-    border: 10px double;
-}
-
 .content-container {
     padding: 20px;
 }
@@ -14,9 +8,14 @@
     font-size: 1.5em;
 }
 
-@media screen and (mid-width: 992px) {
-    .content-container > div img {
-        width: 50%;
+.content-container > div img {
+    width: 98%;
+    border-radius: 90px;
+    border: 10px double;
+}
+
+@media screen and (min-width: 997px) {
+    .content-container article p {
+        margin: 0 auto 10px;
     }
-    
 }

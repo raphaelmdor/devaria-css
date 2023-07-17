@@ -1,0 +1,11 @@
+/* Estilos da pagina professores */
+
+.content-container > div img {
+    width: 98%;
+    border-radius: 90px;
+    border: 10px double;
+}
+
+.content-container {
+    padding: 20px;
+}

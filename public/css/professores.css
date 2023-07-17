@@ -9,3 +9,14 @@
 .content-container {
     padding: 20px;
 }
+
+.content-container h2.title {
+    font-size: 1.5em;
+}
+
+@media screen and (mid-width: 992px) {
+    .content-container > div img {
+        width: 50%;
+    }
+    
+}

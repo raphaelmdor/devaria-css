@@ -23,6 +23,11 @@ header nav ul li:not(:last-child) {
     text-decoration: none;
 }
 
+.menu li a:hover {
+    color: #3bd42d;
+    text-decoration: underline;
+}
+
 @media screen and (min-width: 992px) {
     header {
         position: relative;
